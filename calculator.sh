@@ -5,3 +5,9 @@ x=a+b
 
 #subtraction
 x=a-b
+
+#multiplication
+x=a*b
+
+#divide
+x=a-b
